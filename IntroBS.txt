@@ -1,2 +1,7 @@
 I REALLY FUCKING HOPE THIS WORKS
 hello why is my terminal not working
+
+HELLO PLEASE START HERE
+Welcome to my absolutely crazy, ambitious, and insane project of making a cool looking personal website with minimal
+webdev experience. I'll probably log changes somewhere, along with my plans for what I want to do with
+this thing. I'm Annie, and welcome to my superhell.
